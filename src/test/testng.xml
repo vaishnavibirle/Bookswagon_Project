@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/irg/IdeaProjects/BooksWagon_Project">
+        <classes>
+            <class name="com.bridgelabz.selenium.test.BooksWagon_Test">
+                <methods>
+                    <include name="login_test"/>
+                    <include name="login_negative_test"/>
+                    <include name="add_to_wishlist_test"/>
+                    <include name="search_book_test"/>
+                    <include name="buy_book_test"/>
+                    <include name="remove_book_test"/>
+                    <include name="broken_link_test"/>
+                    <include name="logout_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

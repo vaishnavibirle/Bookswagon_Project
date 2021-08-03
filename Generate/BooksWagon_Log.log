@@ -1,0 +1,38 @@
+[INFO ] 2021-08-03 16:34:02.203 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-03 16:34:02.847 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-03 16:34:05.629 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-03 16:34:05.630 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-03 16:34:10.313 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-03 16:34:16.750 [Test worker] Log - buy_book_testTest is starting
+[INFO ] 2021-08-03 16:34:16.826 [Test worker] Log - Clicking on search bar
+[INFO ] 2021-08-03 16:34:17.911 [Test worker] Log - Enter book name
+[INFO ] 2021-08-03 16:34:33.122 [Test worker] Log - Clicking on buy now
+[INFO ] 2021-08-03 16:34:36.273 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-03 16:34:36.813 [Test worker] Log - Adding quantity of books
+[INFO ] 2021-08-03 16:34:38.524 [Test worker] Log - clicking on place order
+[INFO ] 2021-08-03 16:34:39.203 [Test worker] Log - Switching to parent frame
+[INFO ] 2021-08-03 16:34:41.218 [Test worker] Log - Enter address details
+[INFO ] 2021-08-03 16:35:05.432 [Test worker] Log - Logging out after doing all process
+[WARN ] 2021-08-03 16:35:08.236 [Test worker] Log - Test is failed
+[INFO ] 2021-08-03 16:35:08.667 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-03 16:35:15.658 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-03 16:35:16.468 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-03 16:42:02.794 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-03 16:42:03.217 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-03 16:42:05.614 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-03 16:42:05.615 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-03 16:42:08.129 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-03 16:42:14.093 [Test worker] Log - buy_book_testTest is starting
+[INFO ] 2021-08-03 16:42:14.167 [Test worker] Log - Clicking on search bar
+[INFO ] 2021-08-03 16:42:15.267 [Test worker] Log - Enter book name
+[INFO ] 2021-08-03 16:42:28.872 [Test worker] Log - Clicking on buy now
+[INFO ] 2021-08-03 16:42:31.983 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-03 16:42:32.552 [Test worker] Log - Adding quantity of books
+[INFO ] 2021-08-03 16:42:34.252 [Test worker] Log - clicking on place order
+[INFO ] 2021-08-03 16:42:34.982 [Test worker] Log - Switching to parent frame
+[INFO ] 2021-08-03 16:42:38.201 [Test worker] Log - Enter address details
+[INFO ] 2021-08-03 16:42:52.542 [Test worker] Log - Logging out after doing all process
+[INFO ] 2021-08-03 16:42:54.711 [Test worker] Log - Test is passed
+[INFO ] 2021-08-03 16:42:55.114 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-03 16:43:00.835 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-03 16:43:01.670 [Test worker] Log - Gradle testTest is finished

@@ -1,0 +1,208 @@
+[INFO ] 2021-08-02 11:22:53.190 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-02 11:28:40.683 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-02 11:31:25.114 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-02 12:14:45.817 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-02 12:24:57.554 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-02 12:31:18.695 [Test worker] Log - login_testTest is starting
+[INFO ] 2021-08-02 12:31:30.560 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 12:31:38.085 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 12:32:06.915 [Test worker] Log - login_negative_testTest is starting
+[INFO ] 2021-08-02 12:32:18.545 [Test worker] Log - Please enter valid credentials
+[INFO ] 2021-08-02 12:32:19.427 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 12:32:27.628 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 12:47:30.789 [Test worker] Log - login_testTest is starting
+[INFO ] 2021-08-02 12:47:43.131 [Test worker] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:47:43.451 [Test worker] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:47:43.827 [Test worker] Log - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:47:45.606 [Test worker] Log - you're logout successfully
+[INFO ] 2021-08-02 12:47:46.484 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 12:47:54.409 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 12:48:47.984 [main] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-02 12:49:00.643 [main] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:49:00.961 [main] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:49:01.336 [main] Log - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:49:02.407 [main] Log - you're logout successfully
+[INFO ] 2021-08-02 12:49:22.652 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-02 12:49:23.154 [main] Log - Test is passed
+[INFO ] 2021-08-02 12:49:25.252 [main] Log - buy_book_testTest is starting
+[INFO ] 2021-08-02 12:50:06.245 [main] Log - Test is passed
+[INFO ] 2021-08-02 12:50:06.466 [main] Log - login_negative_testTest is starting
+[WARN ] 2021-08-02 12:50:06.833 [main] Log - Test is failed
+[INFO ] 2021-08-02 12:50:07.084 [main] Log - login_testTest is starting
+[WARN ] 2021-08-02 12:50:07.386 [main] Log - Test is failed
+[INFO ] 2021-08-02 12:50:07.804 [main] Log - remove_book_testTest is starting
+[WARN ] 2021-08-02 12:50:08.119 [main] Log - Test is failed
+[INFO ] 2021-08-02 12:50:08.428 [main] Log - search_book_testTest is starting
+[WARN ] 2021-08-02 12:50:08.703 [main] Log - Test is failed
+[INFO ] 2021-08-02 12:50:15.585 [main] Log - Bookswagon TestTest is finished
+[INFO ] 2021-08-02 12:54:36.410 [Test worker] Log - login_negative_testTest is starting
+[WARN ] 2021-08-02 12:54:52.808 [Test worker] Log - Test is failed
+[INFO ] 2021-08-02 12:55:00.990 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 12:56:30.955 [Test worker] Log - login_negative_testTest is starting
+[INFO ] 2021-08-02 12:56:46.270 [Test worker] Log - Please enter valid credentials
+[INFO ] 2021-08-02 12:56:46.918 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 12:56:54.048 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 12:59:21.755 [Test worker] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-02 12:59:34.144 [Test worker] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:59:34.460 [Test worker] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 12:59:34.853 [Test worker] Log - Clicking on sub menu logout
+[INFO ] 2021-08-02 12:59:36.269 [Test worker] Log - you're logout successfully
+[INFO ] 2021-08-02 12:59:56.454 [Test worker] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 12:59:56.756 [Test worker] Log - mouse hovering on logout sub menu
+[WARN ] 2021-08-02 12:59:57.299 [Test worker] Log - Test is failed
+[INFO ] 2021-08-02 13:00:04.547 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 13:09:18.800 [Test worker] Log - broken_link_testTest is starting
+[WARN ] 2021-08-02 13:09:59.669 [Test worker] Log - Test is failed
+[INFO ] 2021-08-02 13:10:07.469 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 13:13:12.517 [Test worker] Log - broken_link_testTest is starting
+[WARN ] 2021-08-02 13:13:44.750 [Test worker] Log - Test is failed
+[INFO ] 2021-08-02 13:14:32.321 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 13:21:16.626 [Test worker] Log - broken_link_testTest is starting
+[WARN ] 2021-08-02 13:21:28.499 [Test worker] Log - Test is failed
+[INFO ] 2021-08-02 13:21:36.588 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 13:31:44.305 [Test worker] Log - Handling popup
+[INFO ] 2021-08-02 13:31:44.330 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 13:31:45.672 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-02 13:31:49.721 [Test worker] Log - Launching url
+[INFO ] 2021-08-02 13:31:52.393 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-02 13:31:57.588 [Test worker] Log - logout_testTest is starting
+[INFO ] 2021-08-02 13:32:10.120 [Test worker] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 13:32:10.443 [Test worker] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 13:32:10.815 [Test worker] Log - Clicking on sub menu logout
+[INFO ] 2021-08-02 13:32:12.177 [Test worker] Log - you're logout successfully
+[INFO ] 2021-08-02 13:32:13.050 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 13:32:13.576 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-02 13:32:20.098 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 13:32:21.078 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 13:34:03.418 [Test worker] Log - Handling popup
+[INFO ] 2021-08-02 13:34:03.441 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 13:34:04.664 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-02 13:34:07.694 [Test worker] Log - Launching url
+[INFO ] 2021-08-02 13:34:10.061 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-02 13:34:15.215 [Test worker] Log - login_testTest is starting
+[INFO ] 2021-08-02 13:34:27.895 [Test worker] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 13:34:28.204 [Test worker] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 13:34:28.541 [Test worker] Log - Clicking on sub menu logout
+[INFO ] 2021-08-02 13:34:29.479 [Test worker] Log - you're logout successfully
+[INFO ] 2021-08-02 13:34:30.185 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 13:34:30.648 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-02 13:34:36.085 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 13:34:36.841 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 16:15:32.528 [main] Log - Handling popup
+[INFO ] 2021-08-02 16:15:32.549 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 16:15:33.063 [main] Log - launching chrome driver
+[INFO ] 2021-08-02 16:15:34.946 [main] Log - Launching url
+[INFO ] 2021-08-02 16:15:37.024 [main] Log - maximizing the browser window
+[INFO ] 2021-08-02 16:15:42.192 [main] Log - add_to_wishlist_testTest is starting
+[WARN ] 2021-08-02 16:16:13.015 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:13.490 [main] Log - broken_link_testTest is starting
+[WARN ] 2021-08-02 16:16:18.774 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:20.645 [main] Log - buy_book_testTest is starting
+[WARN ] 2021-08-02 16:16:44.289 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:44.503 [main] Log - login_negative_testTest is starting
+[WARN ] 2021-08-02 16:16:44.703 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:44.903 [main] Log - login_testTest is starting
+[WARN ] 2021-08-02 16:16:45.116 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:45.312 [main] Log - logout_testTest is starting
+[WARN ] 2021-08-02 16:16:45.506 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:45.721 [main] Log - remove_book_testTest is starting
+[WARN ] 2021-08-02 16:16:45.924 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:46.130 [main] Log - search_book_testTest is starting
+[WARN ] 2021-08-02 16:16:46.325 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:16:46.533 [main] Log - Sending report on email
+[INFO ] 2021-08-02 16:16:52.028 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 16:16:52.854 [main] Log - Bookswagon TestTest is finished
+[INFO ] 2021-08-02 16:19:29.577 [main] Log - Handling popup
+[INFO ] 2021-08-02 16:19:29.592 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 16:19:29.973 [main] Log - launching chrome driver
+[INFO ] 2021-08-02 16:19:31.688 [main] Log - Launching url
+[INFO ] 2021-08-02 16:20:48.767 [main] Log - maximizing the browser window
+[INFO ] 2021-08-02 16:20:49.104 [main] Log - login_testTest is starting
+[WARN ] 2021-08-02 16:20:49.109 [main] Log - login_testTest is skipped
+[INFO ] 2021-08-02 16:20:49.113 [main] Log - login_negative_testTest is starting
+[WARN ] 2021-08-02 16:20:49.117 [main] Log - login_negative_testTest is skipped
+[INFO ] 2021-08-02 16:20:49.120 [main] Log - add_to_wishlist_testTest is starting
+[WARN ] 2021-08-02 16:20:49.123 [main] Log - add_to_wishlist_testTest is skipped
+[INFO ] 2021-08-02 16:20:49.125 [main] Log - search_book_testTest is starting
+[WARN ] 2021-08-02 16:20:49.129 [main] Log - search_book_testTest is skipped
+[INFO ] 2021-08-02 16:20:50.624 [main] Log - buy_book_testTest is starting
+[WARN ] 2021-08-02 16:20:50.628 [main] Log - buy_book_testTest is skipped
+[INFO ] 2021-08-02 16:20:50.636 [main] Log - remove_book_testTest is starting
+[WARN ] 2021-08-02 16:20:50.643 [main] Log - remove_book_testTest is skipped
+[INFO ] 2021-08-02 16:20:50.647 [main] Log - broken_link_testTest is starting
+[WARN ] 2021-08-02 16:20:50.651 [main] Log - broken_link_testTest is skipped
+[INFO ] 2021-08-02 16:20:50.656 [main] Log - logout_testTest is starting
+[WARN ] 2021-08-02 16:20:50.660 [main] Log - logout_testTest is skipped
+[INFO ] 2021-08-02 16:20:50.667 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_ProjectTest is finished
+[INFO ] 2021-08-02 16:21:09.336 [main] Log - Handling popup
+[INFO ] 2021-08-02 16:21:09.349 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 16:21:09.684 [main] Log - launching chrome driver
+[INFO ] 2021-08-02 16:21:11.399 [main] Log - Launching url
+[INFO ] 2021-08-02 16:21:52.237 [main] Log - maximizing the browser window
+[INFO ] 2021-08-02 16:21:57.419 [main] Log - login_testTest is starting
+[INFO ] 2021-08-02 16:22:33.903 [main] Log - Sending report on email
+[INFO ] 2021-08-02 16:22:40.442 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 16:22:41.081 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_ProjectTest is finished
+[INFO ] 2021-08-02 16:23:18.177 [main] Log - Handling popup
+[INFO ] 2021-08-02 16:23:18.194 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 16:23:18.498 [main] Log - launching chrome driver
+[INFO ] 2021-08-02 16:23:20.307 [main] Log - Launching url
+[INFO ] 2021-08-02 16:23:29.563 [main] Log - maximizing the browser window
+[INFO ] 2021-08-02 16:23:34.733 [main] Log - login_testTest is starting
+[INFO ] 2021-08-02 16:23:48.800 [main] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-02 16:23:49.109 [main] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-02 16:23:49.468 [main] Log - Clicking on sub menu logout
+[INFO ] 2021-08-02 16:23:50.325 [main] Log - you're logout successfully
+[INFO ] 2021-08-02 16:23:51.071 [main] Log - Test is passed
+[INFO ] 2021-08-02 16:23:51.476 [main] Log - login_negative_testTest is starting
+[WARN ] 2021-08-02 16:24:05.392 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:24:05.613 [main] Log - add_to_wishlist_testTest is starting
+[WARN ] 2021-08-02 16:24:37.542 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:24:37.759 [main] Log - search_book_testTest is starting
+[INFO ] 2021-08-02 16:25:00.282 [main] Log - Checking title actual and expected
+[INFO ] 2021-08-02 16:25:00.646 [main] Log - Test is passed
+[INFO ] 2021-08-02 16:25:01.842 [main] Log - buy_book_testTest is starting
+[WARN ] 2021-08-02 16:25:25.735 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:25:25.949 [main] Log - remove_book_testTest is starting
+[WARN ] 2021-08-02 16:25:26.149 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:25:26.365 [main] Log - broken_link_testTest is starting
+[WARN ] 2021-08-02 16:25:27.759 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:25:27.950 [main] Log - logout_testTest is starting
+[WARN ] 2021-08-02 16:25:28.168 [main] Log - Test is failed
+[INFO ] 2021-08-02 16:25:28.380 [main] Log - Sending report on email
+[INFO ] 2021-08-02 16:25:33.483 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 16:25:34.299 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_ProjectTest is finished
+[INFO ] 2021-08-02 16:28:25.590 [Test worker] Log - Handling popup
+[INFO ] 2021-08-02 16:28:25.615 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 16:28:25.951 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-02 16:28:27.912 [Test worker] Log - Launching url
+[INFO ] 2021-08-02 16:28:32.639 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-02 16:28:37.807 [Test worker] Log - login_negative_testTest is starting
+[INFO ] 2021-08-02 16:28:52.085 [Test worker] Log - Please enter valid credentials
+[INFO ] 2021-08-02 16:28:52.799 [Test worker] Log - Test is passed
+[INFO ] 2021-08-02 16:28:53.562 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-02 16:28:59.679 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 16:29:00.473 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 18:40:56.010 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 18:40:56.914 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-02 18:40:59.756 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-02 18:40:59.757 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:41:01.551 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-02 18:41:07.520 [Test worker] Log - buy_book_testTest is starting
+[INFO ] 2021-08-02 18:41:07.589 [Test worker] Log - Clicking on search bar
+[INFO ] 2021-08-02 18:41:08.663 [Test worker] Log - Enter book name
+[INFO ] 2021-08-02 18:41:23.449 [Test worker] Log - Clicking on buy now
+[INFO ] 2021-08-02 18:41:26.531 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-02 18:41:30.210 [Test worker] Log - Adding quantity of books
+[INFO ] 2021-08-02 18:41:31.839 [Test worker] Log - clicking on place order
+[INFO ] 2021-08-02 18:41:32.446 [Test worker] Log - Switching to parent frame
+[INFO ] 2021-08-02 18:41:34.454 [Test worker] Log - Enter address details
+[WARN ] 2021-08-02 18:41:45.784 [Test worker] Log - Test is failed
+[INFO ] 2021-08-02 18:41:46.024 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-02 18:41:52.067 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-02 18:41:52.921 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-02 18:43:02.622 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-02 18:43:03.014 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-02 18:43:05.249 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-02 18:43:05.250 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-02 18:43:07.523 [Test worker] Log - maximizing the browser window

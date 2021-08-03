@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.BooksWagon_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-03T11:12:14" hostname="LAPTOP-GG01EQKS" time="40.33">
+  <properties/>
+  <testcase name="buy_book_test[0](vaishnavibirle2209@gmail.com, Vaishnavi@123, Saniya, IUDP, 444505, 8668612060)" classname="com.bridgelabz.selenium.test.BooksWagon_Test" time="40.33"/>
+  <system-out><![CDATA[Number of rows : 2
+Number of columns : 6
+vaishnavibirle2209@gmail.com | Vaishnavi@123 | Saniya | IUDP | 444505 | 8668612060 | 
+[INFO ] 2021-08-03 16:42:14.093 [Test worker] Log - buy_book_testTest is starting
+[INFO ] 2021-08-03 16:42:14.167 [Test worker] Log - Clicking on search bar
+[INFO ] 2021-08-03 16:42:15.267 [Test worker] Log - Enter book name
+1
+List of books : 1.
+3%
+Shyamchi Aai
+By: Pandurang Sadashiv Sane
+Publisher: Createspace Independent Publishing Platform
+Rs.924
+Rs.896
+Binding:
+Paperback
+Release:
+19 Aug 2017
+Language:
+Marathi
+International Edition
+Ships within 18-20 Days Explain..
+Free Shipping in India and low cost Worldwide.
+
+2.
+40%
+Shyamchi Aai
+By: Gokhale Shanta
+Publisher: Penguin Random House India Pvt. Ltd
+Rs.299
+Rs.179
+Binding:
+Paperback
+Release:
+01 Aug 2021
+Language:
+English
+Available
+Ships within 4-6 Days Explain..
+Rs.39 shipping in India per item and low cost Worldwide
+3.
+4%
+Articles on Indian Books, Including: The Autobiography of an Unknown Indian, Autobiography of a Yogi, the Legacy of Muslim Rule in India, Shyamchi Aai
+By: Hephaestus Books
+Publisher: Hephaestus Books
+Rs.1,470
+Rs.1,411
+Binding:
+Paperback
+Release:
+29 Aug 2011
+Language:
+English
+Out of Stock
+Notify me when this book is in stock
+Notify Me
+4.
+4%
+Marathi-Language Films, Including: Anahat (Film), Shyamchi Aai (Film), Shwaas, Jait Re Jait, Valu - The Bull, Pandu Havaldar, RAM RAM Gangaram, Pachha
+By: Hephaestus Books
+Publisher: Hephaestus Books
+Rs.1,470
+Rs.1,411
+Binding:
+Paperback
+Release:
+25 Aug 2011
+Language:
+English
+Out of Stock
+Notify me when this book is in stock
+Notify Me
+-----------------------------------------
+[INFO ] 2021-08-03 16:42:28.872 [Test worker] Log - Clicking on buy now
+[INFO ] 2021-08-03 16:42:31.983 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-03 16:42:32.552 [Test worker] Log - Adding quantity of books
+[INFO ] 2021-08-03 16:42:34.252 [Test worker] Log - clicking on place order
+[INFO ] 2021-08-03 16:42:34.982 [Test worker] Log - Switching to parent frame
+[INFO ] 2021-08-03 16:42:38.201 [Test worker] Log - Enter address details
+[INFO ] 2021-08-03 16:42:52.542 [Test worker] Log - Logging out after doing all process
+Added shipping address!!
+Method passed buy_book_test
+[INFO ] 2021-08-03 16:42:54.711 [Test worker] Log - Test is passed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
