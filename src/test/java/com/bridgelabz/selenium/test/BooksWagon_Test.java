@@ -30,7 +30,7 @@ public class BooksWagon_Test extends BaseClass {
     }
 
 
-    @Test(priority = 1)
+    @Test(priority = 1,dependsOnMethods = {"login_test"})
     public void add_to_wishlist_test() throws InterruptedException {
         Home_Page homePage = new Home_Page(driver);
         String actual = homePage.add_to_cart();
