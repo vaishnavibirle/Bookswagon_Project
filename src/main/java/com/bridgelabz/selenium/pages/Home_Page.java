@@ -84,7 +84,11 @@ public class Home_Page extends BaseClass {
         Thread.sleep(1000);
         Log.info("removing items from cart");
         remove_from_cart.click();
-        Thread.sleep(2000);
+        Thread.sleep(1000);
+        driver.switchTo().parentFrame();
+        Log.info("Click on closed box");
+        checkbox.click();
+        Thread.sleep(3000);
         return driver.getTitle();
     }
 

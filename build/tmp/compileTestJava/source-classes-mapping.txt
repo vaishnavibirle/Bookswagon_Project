@@ -1,2 +1,8 @@
+com/bridgelabz/selenium/test/Bookswagon_logout_test.java
+ com.bridgelabz.selenium.test.Bookswagon_logout_test
+com/bridgelabz/selenium/test/BooksWagon_System_Test.java
+ com.bridgelabz.selenium.test.BooksWagon_System_Test
+com/bridgelabz/selenium/test/Bookswagon_negative_test.java
+ com.bridgelabz.selenium.test.Bookswagon_negative_test
 com/bridgelabz/selenium/test/BooksWagon_Test.java
  com.bridgelabz.selenium.test.BooksWagon_Test

@@ -1,0 +1,298 @@
+[INFO ] 2021-08-04 17:27:43.089 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 17:27:44.763 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-04 17:27:50.174 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-04 17:27:50.175 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 17:27:52.941 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-04 17:27:58.133 [Test worker] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 17:27:58.232 [Test worker] Log - Clicking on home button
+[INFO ] 2021-08-04 17:28:01.466 [Test worker] Log - Selecting book and clicking
+[INFO ] 2021-08-04 17:28:06.970 [Test worker] Log - Added to wishlist
+[INFO ] 2021-08-04 17:28:12.251 [Test worker] Log - clicked on cart
+[INFO ] 2021-08-04 17:28:15.431 [Test worker] Log - Click on checked box
+[WARN ] 2021-08-04 17:28:19.076 [Test worker] Log - Test is failed
+[INFO ] 2021-08-04 17:28:19.927 [Test worker] Log - login_testTest is starting
+[INFO ] 2021-08-04 17:28:19.937 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-04 17:28:23.537 [Test worker] Log - sending email credential
+[INFO ] 2021-08-04 17:28:25.830 [Test worker] Log - sending password credentials
+[INFO ] 2021-08-04 17:28:28.058 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-04 17:29:07.235 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 17:29:07.996 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-04 17:29:11.506 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-04 17:29:11.506 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 17:29:14.099 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-04 17:29:19.302 [Test worker] Log - login_testTest is starting
+[INFO ] 2021-08-04 17:29:19.409 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-04 17:29:22.796 [Test worker] Log - sending email credential
+[INFO ] 2021-08-04 17:29:25.013 [Test worker] Log - sending password credentials
+[INFO ] 2021-08-04 17:29:27.174 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-04 17:29:32.434 [Test worker] Log - Test is passed
+[INFO ] 2021-08-04 17:29:32.948 [Test worker] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 17:29:32.960 [Test worker] Log - Clicking on home button
+[INFO ] 2021-08-04 17:29:36.525 [Test worker] Log - Selecting book and clicking
+[INFO ] 2021-08-04 17:29:42.190 [Test worker] Log - Added to wishlist
+[INFO ] 2021-08-04 17:29:47.654 [Test worker] Log - clicked on cart
+[INFO ] 2021-08-04 17:29:50.841 [Test worker] Log - Click on checked box
+[WARN ] 2021-08-04 17:29:54.476 [Test worker] Log - Test is failed
+[INFO ] 2021-08-04 17:29:54.953 [Test worker] Log - remove_book_testTest is starting
+[INFO ] 2021-08-04 17:29:54.963 [Test worker] Log - Clicking on cart
+[INFO ] 2021-08-04 17:29:56.095 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-04 17:29:57.170 [Test worker] Log - removing items from cart
+[INFO ] 2021-08-04 17:29:59.893 [Test worker] Log - Test is passed
+[INFO ] 2021-08-04 17:30:00.361 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-04 17:30:06.618 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 17:30:07.648 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-04 17:30:54.033 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 17:30:54.558 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-04 17:30:58.144 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-04 17:30:58.144 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 17:31:00.999 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-04 17:31:06.260 [Test worker] Log - login_testTest is starting
+[INFO ] 2021-08-04 17:31:06.492 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-04 17:31:09.420 [Test worker] Log - sending email credential
+[INFO ] 2021-08-04 17:31:11.591 [Test worker] Log - sending password credentials
+[INFO ] 2021-08-04 17:31:13.735 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-04 17:31:19.109 [Test worker] Log - Test is passed
+[INFO ] 2021-08-04 17:31:19.754 [Test worker] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 17:31:19.764 [Test worker] Log - Clicking on home button
+[INFO ] 2021-08-04 17:31:22.587 [Test worker] Log - Selecting book and clicking
+[INFO ] 2021-08-04 17:31:28.810 [Test worker] Log - Added to wishlist
+[INFO ] 2021-08-04 17:31:34.587 [Test worker] Log - clicked on cart
+[INFO ] 2021-08-04 17:31:37.778 [Test worker] Log - Click on checked box
+[INFO ] 2021-08-04 17:31:40.952 [Test worker] Log - Please enter valid credentials
+[INFO ] 2021-08-04 17:31:41.475 [Test worker] Log - Test is passed
+[INFO ] 2021-08-04 17:31:41.990 [Test worker] Log - remove_book_testTest is starting
+[INFO ] 2021-08-04 17:31:41.991 [Test worker] Log - Clicking on cart
+[INFO ] 2021-08-04 17:31:43.071 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-04 17:31:44.123 [Test worker] Log - removing items from cart
+[INFO ] 2021-08-04 17:31:46.783 [Test worker] Log - Test is passed
+[INFO ] 2021-08-04 17:31:47.133 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-04 17:31:52.385 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 17:31:53.336 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-08-04 17:32:41.969 [Test worker] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 17:32:42.545 [Test worker] Log - launching chrome driver
+[INFO ] 2021-08-04 17:32:46.304 [Test worker] Log - Internet is connected
+[INFO ] 2021-08-04 17:32:46.320 [Test worker] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 17:32:49.806 [Test worker] Log - maximizing the browser window
+[INFO ] 2021-08-04 17:32:55.164 [Test worker] Log - Clicking on search bar
+[INFO ] 2021-08-04 17:32:56.277 [Test worker] Log - sending book name in search bar
+[INFO ] 2021-08-04 17:32:58.420 [Test worker] Log - Selecting on book
+[INFO ] 2021-08-04 17:33:09.930 [Test worker] Log - Adding book to wishlist
+[INFO ] 2021-08-04 17:33:17.434 [Test worker] Log - Checking title actual and expected
+[INFO ] 2021-08-04 17:33:19.414 [Test worker] Log - Clicking on search bar
+[INFO ] 2021-08-04 17:33:20.546 [Test worker] Log - Enter book name
+[INFO ] 2021-08-04 17:33:34.495 [Test worker] Log - Clicking on buy now
+[INFO ] 2021-08-04 17:33:37.650 [Test worker] Log - Switching to frame
+[INFO ] 2021-08-04 17:33:38.218 [Test worker] Log - Adding quantity of books
+[INFO ] 2021-08-04 17:33:40.000 [Test worker] Log - clicking on place order
+[INFO ] 2021-08-04 17:33:40.774 [Test worker] Log - Switching to parent frame
+[INFO ] 2021-08-04 17:33:42.952 [Test worker] Log - Enter address details
+[INFO ] 2021-08-04 17:33:58.219 [Test worker] Log - Logging out after doing all process
+[INFO ] 2021-08-04 17:34:00.551 [Test worker] Log - Sending report on email
+[INFO ] 2021-08-04 17:34:06.061 [Test worker] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 23:45:02.923 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 23:45:03.941 [main] Log - launching chrome driver
+[INFO ] 2021-08-04 23:45:07.063 [main] Log - Internet is connected
+[INFO ] 2021-08-04 23:45:07.063 [main] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 23:45:09.577 [main] Log - maximizing the browser window
+[INFO ] 2021-08-04 23:45:14.744 [main] Log - search_book_testTest is starting
+[INFO ] 2021-08-04 23:45:14.819 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:45:15.900 [main] Log - sending book name in search bar
+[INFO ] 2021-08-04 23:45:17.986 [main] Log - Selecting on book
+[INFO ] 2021-08-04 23:45:29.780 [main] Log - Adding book to wishlist
+[INFO ] 2021-08-04 23:45:35.851 [main] Log - Checking title actual and expected
+[INFO ] 2021-08-04 23:45:36.148 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:45:38.257 [main] Log - buy_book_testTest is starting
+[INFO ] 2021-08-04 23:45:38.263 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:45:39.396 [main] Log - Enter book name
+[INFO ] 2021-08-04 23:45:52.628 [main] Log - Clicking on buy now
+[INFO ] 2021-08-04 23:45:55.779 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:45:56.330 [main] Log - Adding quantity of books
+[INFO ] 2021-08-04 23:45:58.042 [main] Log - clicking on place order
+[INFO ] 2021-08-04 23:45:58.752 [main] Log - Switching to parent frame
+[INFO ] 2021-08-04 23:46:01.276 [main] Log - Enter address details
+[INFO ] 2021-08-04 23:46:15.062 [main] Log - Logging out after doing all process
+[INFO ] 2021-08-04 23:46:17.136 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:46:17.339 [main] Log - login_testTest is starting
+[INFO ] 2021-08-04 23:46:17.350 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:46:19.992 [main] Log - sending email credential
+[INFO ] 2021-08-04 23:46:22.156 [main] Log - sending password credentials
+[INFO ] 2021-08-04 23:46:24.285 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:46:30.027 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:46:30.217 [main] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 23:46:30.226 [main] Log - Clicking on home button
+[INFO ] 2021-08-04 23:46:33.157 [main] Log - Selecting book and clicking
+[INFO ] 2021-08-04 23:46:39.325 [main] Log - Added to wishlist
+[INFO ] 2021-08-04 23:46:44.652 [main] Log - clicked on cart
+[INFO ] 2021-08-04 23:46:47.800 [main] Log - Click on checked box
+[INFO ] 2021-08-04 23:46:50.934 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-04 23:46:51.188 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:46:51.423 [main] Log - remove_book_testTest is starting
+[INFO ] 2021-08-04 23:46:51.423 [main] Log - Clicking on cart
+[INFO ] 2021-08-04 23:46:52.493 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:46:53.522 [main] Log - removing items from cart
+[INFO ] 2021-08-04 23:46:56.019 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:46:56.206 [main] Log - logout_testTest is starting
+[INFO ] 2021-08-04 23:46:56.209 [main] Log - Clicking on login button
+[WARN ] 2021-08-04 23:46:56.432 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:46:56.721 [main] Log - login_negative_testTest is starting
+[INFO ] 2021-08-04 23:46:56.725 [main] Log - Clicking on login button
+[WARN ] 2021-08-04 23:46:56.937 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:46:57.204 [main] Log - Sending report on email
+[INFO ] 2021-08-04 23:47:03.617 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 23:47:04.474 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_Project/src/testTest is finished
+[INFO ] 2021-08-04 23:48:26.077 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 23:48:26.386 [main] Log - launching chrome driver
+[INFO ] 2021-08-04 23:48:28.423 [main] Log - Internet is connected
+[INFO ] 2021-08-04 23:48:28.423 [main] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 23:48:31.853 [main] Log - maximizing the browser window
+[INFO ] 2021-08-04 23:48:36.996 [main] Log - search_book_testTest is starting
+[INFO ] 2021-08-04 23:48:37.110 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:48:38.181 [main] Log - sending book name in search bar
+[INFO ] 2021-08-04 23:48:40.263 [main] Log - Selecting on book
+[INFO ] 2021-08-04 23:48:52.128 [main] Log - Adding book to wishlist
+[INFO ] 2021-08-04 23:48:58.830 [main] Log - Checking title actual and expected
+[INFO ] 2021-08-04 23:48:59.121 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:49:00.894 [main] Log - buy_book_testTest is starting
+[INFO ] 2021-08-04 23:49:00.923 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:49:02.053 [main] Log - Enter book name
+[INFO ] 2021-08-04 23:49:15.786 [main] Log - Clicking on buy now
+[INFO ] 2021-08-04 23:49:18.935 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:49:19.500 [main] Log - Adding quantity of books
+[INFO ] 2021-08-04 23:49:21.197 [main] Log - clicking on place order
+[INFO ] 2021-08-04 23:49:21.894 [main] Log - Switching to parent frame
+[INFO ] 2021-08-04 23:49:24.504 [main] Log - Enter address details
+[INFO ] 2021-08-04 23:49:38.486 [main] Log - Logging out after doing all process
+[INFO ] 2021-08-04 23:49:40.879 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:49:41.106 [main] Log - login_testTest is starting
+[INFO ] 2021-08-04 23:49:41.113 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:49:43.990 [main] Log - sending email credential
+[INFO ] 2021-08-04 23:49:46.136 [main] Log - sending password credentials
+[INFO ] 2021-08-04 23:49:48.269 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:49:53.401 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:49:53.598 [main] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 23:49:53.599 [main] Log - Clicking on home button
+[INFO ] 2021-08-04 23:49:55.797 [main] Log - Selecting book and clicking
+[INFO ] 2021-08-04 23:50:02.682 [main] Log - Added to wishlist
+[INFO ] 2021-08-04 23:50:07.998 [main] Log - clicked on cart
+[INFO ] 2021-08-04 23:50:11.132 [main] Log - Click on checked box
+[INFO ] 2021-08-04 23:50:14.253 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-04 23:50:14.598 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:50:14.858 [main] Log - remove_book_testTest is starting
+[INFO ] 2021-08-04 23:50:14.863 [main] Log - Clicking on cart
+[INFO ] 2021-08-04 23:50:15.936 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:50:17.088 [main] Log - removing items from cart
+[INFO ] 2021-08-04 23:50:19.589 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:50:19.864 [main] Log - logout_testTest is starting
+[INFO ] 2021-08-04 23:50:19.873 [main] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-04 23:50:20.205 [main] Log - mouse hovering on logout sub menu
+[WARN ] 2021-08-04 23:50:20.496 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:50:20.769 [main] Log - login_negative_testTest is starting
+[INFO ] 2021-08-04 23:50:20.773 [main] Log - Clicking on login button
+[WARN ] 2021-08-04 23:50:21.028 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:50:21.297 [main] Log - Sending report on email
+[INFO ] 2021-08-04 23:50:27.263 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 23:50:28.123 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_Project/src/testTest is finished
+[INFO ] 2021-08-04 23:52:34.806 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 23:52:35.110 [main] Log - launching chrome driver
+[INFO ] 2021-08-04 23:52:37.513 [main] Log - Internet is connected
+[INFO ] 2021-08-04 23:52:37.514 [main] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 23:52:39.696 [main] Log - maximizing the browser window
+[INFO ] 2021-08-04 23:52:44.865 [main] Log - search_book_testTest is starting
+[INFO ] 2021-08-04 23:52:44.933 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:52:46.010 [main] Log - sending book name in search bar
+[INFO ] 2021-08-04 23:52:48.101 [main] Log - Selecting on book
+[INFO ] 2021-08-04 23:52:59.883 [main] Log - Adding book to wishlist
+[INFO ] 2021-08-04 23:53:06.201 [main] Log - Checking title actual and expected
+[INFO ] 2021-08-04 23:53:06.490 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:53:08.291 [main] Log - buy_book_testTest is starting
+[INFO ] 2021-08-04 23:53:08.291 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:53:09.438 [main] Log - Enter book name
+[INFO ] 2021-08-04 23:53:23.150 [main] Log - Clicking on buy now
+[INFO ] 2021-08-04 23:53:26.318 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:53:26.881 [main] Log - Adding quantity of books
+[INFO ] 2021-08-04 23:53:28.598 [main] Log - clicking on place order
+[INFO ] 2021-08-04 23:53:29.264 [main] Log - Switching to parent frame
+[INFO ] 2021-08-04 23:53:31.554 [main] Log - Enter address details
+[INFO ] 2021-08-04 23:53:46.209 [main] Log - Logging out after doing all process
+[INFO ] 2021-08-04 23:53:48.813 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:53:49.027 [main] Log - login_testTest is starting
+[INFO ] 2021-08-04 23:53:49.043 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:53:51.571 [main] Log - sending email credential
+[INFO ] 2021-08-04 23:53:53.726 [main] Log - sending password credentials
+[INFO ] 2021-08-04 23:53:55.915 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:54:01.280 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:54:01.474 [main] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 23:54:01.486 [main] Log - Clicking on home button
+[INFO ] 2021-08-04 23:54:03.821 [main] Log - Selecting book and clicking
+[INFO ] 2021-08-04 23:54:10.243 [main] Log - Added to wishlist
+[INFO ] 2021-08-04 23:54:15.524 [main] Log - clicked on cart
+[INFO ] 2021-08-04 23:54:18.697 [main] Log - Click on checked box
+[INFO ] 2021-08-04 23:54:21.825 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-04 23:54:22.124 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:54:22.381 [main] Log - remove_book_testTest is starting
+[INFO ] 2021-08-04 23:54:22.386 [main] Log - Clicking on cart
+[INFO ] 2021-08-04 23:54:23.450 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:54:24.599 [main] Log - removing items from cart
+[WARN ] 2021-08-04 23:54:27.177 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:54:27.456 [main] Log - logout_testTest is starting
+[INFO ] 2021-08-04 23:54:27.465 [main] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-04 23:54:27.776 [main] Log - mouse hovering on logout sub menu
+[WARN ] 2021-08-04 23:54:28.103 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:54:28.379 [main] Log - login_negative_testTest is starting
+[INFO ] 2021-08-04 23:54:28.384 [main] Log - Clicking on login button
+[WARN ] 2021-08-04 23:54:28.621 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:54:28.901 [main] Log - Sending report on email
+[INFO ] 2021-08-04 23:54:34.764 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 23:54:35.527 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_Project/src/testTest is finished
+[INFO ] 2021-08-04 23:57:04.343 [main] Log - Setting up the chrome browser
+[INFO ] 2021-08-04 23:57:04.729 [main] Log - launching chrome driver
+[INFO ] 2021-08-04 23:57:07.582 [main] Log - Internet is connected
+[INFO ] 2021-08-04 23:57:07.584 [main] Log - Navigate to url : https://www.bookswagon.com/ 
+[INFO ] 2021-08-04 23:57:10.011 [main] Log - maximizing the browser window
+[INFO ] 2021-08-04 23:57:15.169 [main] Log - search_book_testTest is starting
+[INFO ] 2021-08-04 23:57:15.275 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:57:16.351 [main] Log - sending book name in search bar
+[INFO ] 2021-08-04 23:57:18.423 [main] Log - Selecting on book
+[INFO ] 2021-08-04 23:57:30.010 [main] Log - Adding book to wishlist
+[INFO ] 2021-08-04 23:57:35.898 [main] Log - Checking title actual and expected
+[INFO ] 2021-08-04 23:57:36.207 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:57:38.209 [main] Log - buy_book_testTest is starting
+[INFO ] 2021-08-04 23:57:38.217 [main] Log - Clicking on search bar
+[INFO ] 2021-08-04 23:57:39.344 [main] Log - Enter book name
+[INFO ] 2021-08-04 23:57:53.044 [main] Log - Clicking on buy now
+[INFO ] 2021-08-04 23:57:56.232 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:57:56.794 [main] Log - Adding quantity of books
+[INFO ] 2021-08-04 23:57:58.527 [main] Log - clicking on place order
+[INFO ] 2021-08-04 23:57:59.281 [main] Log - Switching to parent frame
+[INFO ] 2021-08-04 23:58:01.474 [main] Log - Enter address details
+[INFO ] 2021-08-04 23:58:15.901 [main] Log - Logging out after doing all process
+[INFO ] 2021-08-04 23:58:18.194 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:58:18.422 [main] Log - login_testTest is starting
+[INFO ] 2021-08-04 23:58:18.422 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:58:20.990 [main] Log - sending email credential
+[INFO ] 2021-08-04 23:58:23.177 [main] Log - sending password credentials
+[INFO ] 2021-08-04 23:58:25.282 [main] Log - Clicking on login button
+[INFO ] 2021-08-04 23:58:30.514 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:58:30.726 [main] Log - add_to_wishlist_testTest is starting
+[INFO ] 2021-08-04 23:58:30.734 [main] Log - Clicking on home button
+[INFO ] 2021-08-04 23:58:33.455 [main] Log - Selecting book and clicking
+[INFO ] 2021-08-04 23:58:39.097 [main] Log - Added to wishlist
+[INFO ] 2021-08-04 23:58:44.452 [main] Log - clicked on cart
+[INFO ] 2021-08-04 23:58:47.543 [main] Log - Click on checked box
+[INFO ] 2021-08-04 23:58:50.638 [main] Log - Please enter valid credentials
+[INFO ] 2021-08-04 23:58:50.937 [main] Log - Test is passed
+[INFO ] 2021-08-04 23:58:51.210 [main] Log - remove_book_testTest is starting
+[INFO ] 2021-08-04 23:58:51.211 [main] Log - Clicking on cart
+[INFO ] 2021-08-04 23:58:52.279 [main] Log - Switching to frame
+[INFO ] 2021-08-04 23:58:53.333 [main] Log - removing items from cart
+[WARN ] 2021-08-04 23:58:55.849 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:58:56.106 [main] Log - logout_testTest is starting
+[INFO ] 2021-08-04 23:58:56.117 [main] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-04 23:58:56.424 [main] Log - mouse hovering on logout sub menu
+[WARN ] 2021-08-04 23:58:56.692 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:58:56.952 [main] Log - login_negative_testTest is starting
+[INFO ] 2021-08-04 23:58:56.958 [main] Log - Clicking on login button
+[WARN ] 2021-08-04 23:58:57.211 [main] Log - Test is failed
+[INFO ] 2021-08-04 23:58:57.471 [main] Log - Sending report on email
+[INFO ] 2021-08-04 23:59:04.275 [main] Log - closing the browser after test is completed.
+[INFO ] 2021-08-04 23:59:05.036 [main] Log - C:/Users/irg/IdeaProjects/BooksWagon_Project/src/testTest is finished

@@ -4,8 +4,8 @@ com/bridgelabz/selenium/utility/CaptureScreenshot.java
  com.bridgelabz.selenium.utility.CaptureScreenshot
 com/bridgelabz/selenium/utility/DataProvider.java
  com.bridgelabz.selenium.utility.DataProvider
-com/bridgelabz/selenium/pages/Home_Page.java
- com.bridgelabz.selenium.pages.Home_Page
+com/bridgelabz/selenium/pages/Login_Page.java
+ com.bridgelabz.selenium.pages.Login_Page
 com/bridgelabz/selenium/utility/Log.java
  com.bridgelabz.selenium.utility.Log
 com/bridgelabz/selenium/utility/ExcelUtils.java
@@ -25,5 +25,5 @@ com/bridgelabz/selenium/utility/listeners/CustomListener.java
 com/bridgelabz/selenium/utility/EmailReport.java
  com.bridgelabz.selenium.utility.EmailReport
  com.bridgelabz.selenium.utility.EmailReport$1
-com/bridgelabz/selenium/pages/Login_Page.java
- com.bridgelabz.selenium.pages.Login_Page
+com/bridgelabz/selenium/pages/Home_Page.java
+ com.bridgelabz.selenium.pages.Home_Page
