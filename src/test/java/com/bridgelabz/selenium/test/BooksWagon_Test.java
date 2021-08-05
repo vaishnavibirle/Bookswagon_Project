@@ -19,7 +19,7 @@ public class BooksWagon_Test extends BaseClass {
 //        signUp_page.signup();
 //    }
 
-    @Test(dependsOnMethods = {"add_to_wishlist_test" , "remove_book_test"})
+    @Test()
     public void login_test() throws InterruptedException {
         Login_Page login_page = new Login_Page(driver);
         String actual = login_page.login_with_credentials();
