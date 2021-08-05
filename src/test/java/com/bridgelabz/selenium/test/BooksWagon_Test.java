@@ -9,7 +9,6 @@ import org.testng.Assert;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-import java.io.IOException;
 
 @Listeners(CustomListener.class)
 public class BooksWagon_Test extends BaseClass {
@@ -20,7 +19,7 @@ public class BooksWagon_Test extends BaseClass {
 //        signUp_page.signup();
 //    }
 
-    @Test
+    @Test(dependsOnMethods = {"add_to_wishlist_test" , "remove_book_test"})
     public void login_test() throws InterruptedException {
         Login_Page login_page = new Login_Page(driver);
         String actual = login_page.login_with_credentials();
@@ -30,7 +29,7 @@ public class BooksWagon_Test extends BaseClass {
     }
 
 
-    @Test(priority = 1,dependsOnMethods = {"login_test"})
+    @Test(priority = 1)
     public void add_to_wishlist_test() throws InterruptedException {
         Home_Page homePage = new Home_Page(driver);
         String actual = homePage.add_to_cart();
@@ -39,7 +38,6 @@ public class BooksWagon_Test extends BaseClass {
         Log.info("Please enter valid credentials");
         System.out.println("Book is added to cart is successfully!!");
     }
-
 
     @Test(priority = 2)
     public void remove_book_test() throws InterruptedException {
