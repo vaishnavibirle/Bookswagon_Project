@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.Bookswagon_negative_test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-09T07:48:32" hostname="LAPTOP-GG01EQKS" time="24.958">
+  <properties/>
+  <testcase name="address_blank_test" classname="com.bridgelabz.selenium.test.Bookswagon_negative_test" time="24.958"/>
+  <system-out><![CDATA[[INFO ] 2021-08-09 13:18:32.932 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-09 13:18:37.037 [Test worker] Log - sending email credential
+[INFO ] 2021-08-09 13:18:39.218 [Test worker] Log - sending password credentials
+[INFO ] 2021-08-09 13:18:41.409 [Test worker] Log - Clicking on login button
+[INFO ] 2021-08-09 13:18:54.184 [Test worker] Log - Mouse hovering on my account menu
+[INFO ] 2021-08-09 13:18:54.508 [Test worker] Log - mouse hovering on logout sub menu
+[INFO ] 2021-08-09 13:18:54.913 [Test worker] Log - Clicking on sub menu logout
+[INFO ] 2021-08-09 13:18:57.284 [Test worker] Log - you're logout successfully
+[WARN ] 2021-08-09 13:18:57.713 [Test worker] Log - required fields can't be kept empty.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

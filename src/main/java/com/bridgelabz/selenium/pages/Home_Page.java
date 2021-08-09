@@ -49,6 +49,14 @@ public class Home_Page extends BaseClass {
     @FindBy(xpath = "//a[normalize-space()='Log out']")
     WebElement logout;
 
+    @FindBy(xpath = "//ul[@class='ac-tabs']//a[normalize-space()='My Addresses']")
+    WebElement addresses;
+
+    @FindBy(xpath = "//input[@value='Add a New Address']")
+    WebElement add_new;
+
+    @FindBy(xpath = "//input[@id='ctl00_phBody_ShippingAddress_imgSubmit']")
+    WebElement save_address;
 
     public Home_Page(WebDriver driver){
         PageFactory.initElements(driver,this);
@@ -106,4 +114,24 @@ public class Home_Page extends BaseClass {
         return driver.getTitle();
     }
 
+    public String adding_address() throws InterruptedException {
+        addresses.click();
+        Thread.sleep(1000);
+        add_new.click();
+        Thread.sleep(1000);
+        save_address.click();
+        Thread.sleep(1000);
+        Actions actions = new Actions(driver);
+        Log.info("Mouse hovering on my account menu");
+        actions.moveToElement(myProfile);
+        Thread.sleep(300);
+        Log.info("mouse hovering on logout sub menu");
+        actions.moveToElement(logout).build().perform();
+        Log.info("Clicking on sub menu logout");
+        logout.click();
+        Log.info("you're logout successfully");
+        Thread.sleep(400);
+
+        return driver.getTitle();
+    }
 }

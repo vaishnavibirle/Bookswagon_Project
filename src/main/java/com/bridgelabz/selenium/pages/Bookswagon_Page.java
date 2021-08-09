@@ -66,7 +66,7 @@ public class Bookswagon_Page extends BaseClass {
     @FindBy(xpath = "//select[@id='ctl00_cpBody_ddlNewState']//option[@value='Maharashtra'][normalize-space()='Maharashtra']")
     WebElement recipient_state;
 
-    @FindBy(xpath = "//option[@value='Aurangabad']")
+    @FindBy(xpath = "//option[@value='Akola']")
     WebElement recipient_city;
 
     @FindBy(name = "ctl00$cpBody$txtNewPincode")

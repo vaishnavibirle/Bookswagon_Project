@@ -24,6 +24,7 @@
             <class name="com.bridgelabz.selenium.test.Bookswagon_negative_test">
                 <methods>
                     <include name="login_negative_test"/>
+                    <include name="address_blank_test"/>
                 </methods>
             </class>
         </classes>

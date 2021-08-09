@@ -25,6 +25,7 @@ public class BooksWagon_Test extends BaseClass {
         String actual = login_page.login_with_credentials();
         String expected = "Online BookStore India, Buy Books Online, Buy Book Online India - Bookswagon.com";
         Assert.assertEquals(actual,expected);
+        Log.info("Logging into application");
         System.out.println("Logged in successfully.");
     }
 
@@ -53,6 +54,4 @@ public class BooksWagon_Test extends BaseClass {
 //        BrokenLink brokenLink = new BrokenLink(driver);
 //        brokenLink.broken_link();
 //    }
-
-
 }

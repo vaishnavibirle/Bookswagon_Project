@@ -18,12 +18,12 @@ com/bridgelabz/selenium/utility/Library.java
  com.bridgelabz.selenium.utility.Library
 com/bridgelabz/selenium/base/BaseClass.java
  com.bridgelabz.selenium.base.BaseClass
-com/bridgelabz/selenium/pages/Bookswagon_Page.java
- com.bridgelabz.selenium.pages.Bookswagon_Page
+com/bridgelabz/selenium/pages/Home_Page.java
+ com.bridgelabz.selenium.pages.Home_Page
 com/bridgelabz/selenium/utility/listeners/CustomListener.java
  com.bridgelabz.selenium.utility.listeners.CustomListener
 com/bridgelabz/selenium/utility/EmailReport.java
  com.bridgelabz.selenium.utility.EmailReport
  com.bridgelabz.selenium.utility.EmailReport$1
-com/bridgelabz/selenium/pages/Home_Page.java
- com.bridgelabz.selenium.pages.Home_Page
+com/bridgelabz/selenium/pages/Bookswagon_Page.java
+ com.bridgelabz.selenium.pages.Bookswagon_Page
